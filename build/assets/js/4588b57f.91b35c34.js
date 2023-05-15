@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[743],{63891:s=>{s.exports=JSON.parse('{"sourceUrl":"https://github.com/Rusty483/ultimate-build-revamped/blob/master","baseUrl":"/ultimate-build-docs/","classOrder":[],"apiCategories":[]}')}}]);
