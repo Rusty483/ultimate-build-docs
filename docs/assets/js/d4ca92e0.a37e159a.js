@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[817],{38451:e=>{e.exports=JSON.parse('{"functions":[],"properties":[],"types":[],"name":"Markdown","desc":"Basic markdown for [Document](src/ReplicatedStorage/Components/Base/Document) component.","source":{"line":3,"path":"src/ReplicatedStorage/Modules/Markdown.lua"}}')}}]);
